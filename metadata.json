@@ -1,0 +1,6 @@
+{
+  "name": "Unggul Digital Printing - Log & Counter Mesin",
+  "description": "Aplikasi pencatatan dan monitoring log aktivitas cetak Unggul Digital Printing dengan meteran counter mesin (1 counter = 2 A4), rekapitulasi harian, dan rumus Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
